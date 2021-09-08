@@ -7,4 +7,4 @@ YNAB_BUDGET_ID=ynab budget id
 ```
 
 and then run:
-`ruby connect_to_ynab.rb`
+`ruby ynab-api-helper.rb`
